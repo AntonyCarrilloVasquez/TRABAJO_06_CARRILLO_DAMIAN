@@ -31,5 +31,5 @@ if(verificar==True):
     print("ganaste en chupetin por comprar aqui")
 if(total<=341 and total>321):
     print("vuelva pronto")
-if(total>124 and tatal>456):
+if(total>124 and total>456):
     print("ganaste un descuento del 20%")
